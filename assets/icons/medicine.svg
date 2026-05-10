@@ -1,0 +1,8 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Medicine icon">
+<rect x="7.5" y="40.5" width="35" height="18" rx="9" transform="rotate(-35 7.5 40.5)" fill="#F2FBF6" stroke="#0E6B3B" stroke-width="3.2"/>
+<path d="M25.5 28.5 35.5 42.7" stroke="#0E6B3B" stroke-width="3.2" stroke-linecap="round"/>
+<rect x="33.5" y="9.5" width="28" height="46" rx="14" transform="rotate(35 33.5 9.5)" fill="#F3F8FE" stroke="#0D4C8C" stroke-width="3.2"/>
+<path d="M37 34.5 58.5 49.5" stroke="#0D4C8C" stroke-width="3.2" stroke-linecap="round"/>
+<circle cx="19" cy="49" r="3.2" fill="#0E6B3B"/>
+<circle cx="53" cy="21" r="3.2" fill="#0D4C8C"/>
+</svg>

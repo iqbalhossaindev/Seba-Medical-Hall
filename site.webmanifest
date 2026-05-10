@@ -1,0 +1,43 @@
+{
+  "name": "Seba Medical Hall",
+  "short_name": "Seba Medical",
+  "description": "Seba Medical Hall, Village Jhinaiya, No. 3 Rosulpur Union, Devidwar Police Station, Cumilla District 3530, Bangladesh.",
+  "lang": "bn-BD",
+  "dir": "ltr",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7fbf8",
+  "theme_color": "#0e6b3b",
+  "categories": [
+    "medical",
+    "health",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "assets/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/maskable-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/maskable-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

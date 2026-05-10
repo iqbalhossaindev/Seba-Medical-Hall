@@ -1,0 +1,8 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Phone icon">
+<path d="M25 11h22c3.9 0 7 3.1 7 7v36c0 3.9-3.1 7-7 7H25c-3.9 0-7-3.1-7-7V18c0-3.9 3.1-7 7-7z" fill="#F3F8FE" stroke="#0D4C8C" stroke-width="3.2"/>
+<path d="M31 17h10" stroke="#0D4C8C" stroke-width="3.2" stroke-linecap="round"/>
+<circle cx="36" cy="53" r="2.7" fill="#0D4C8C"/>
+<path d="M34 30h4v7h7v4h-7v7h-4v-7h-7v-4h7v-7z" fill="#0E6B3B"/>
+<path d="M55 24c3.6 3.2 5.5 7.4 5.5 12s-1.9 8.8-5.5 12" stroke="#0E6B3B" stroke-width="3.2" stroke-linecap="round"/>
+<path d="M14 24c-3.6 3.2-5.5 7.4-5.5 12s1.9 8.8 5.5 12" stroke="#0E6B3B" stroke-width="3.2" stroke-linecap="round"/>
+</svg>

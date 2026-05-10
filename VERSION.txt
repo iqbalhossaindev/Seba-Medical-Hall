@@ -1,0 +1,2 @@
+LATEST VERSION: Full translation fix. Bangla page shows Bangla only, English page shows English only.
+The previous English text in Detailed Information and Before Visiting sections is fixed.

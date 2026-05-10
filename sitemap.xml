@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://seba-medical-hall.com/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+    <xhtml:link rel="alternate" hreflang="bn-BD" href="https://seba-medical-hall.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seba-medical-hall.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seba-medical-hall.com/"/>
+    <image:image>
+      <image:loc>https://seba-medical-hall.com/assets/og-image.png</image:loc>
+      <image:title>Seba Medical Hall</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://seba-medical-hall.com/about.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="bn-BD" href="https://seba-medical-hall.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seba-medical-hall.com/about.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seba-medical-hall.com/about.html"/>
+    <image:image>
+      <image:loc>https://seba-medical-hall.com/assets/doctor-mosharraf-hossain.png</image:loc>
+      <image:title>Dr. Mohammad Mosharraf Hossain</image:title>
+    </image:image>
+  </url>
+</urlset>

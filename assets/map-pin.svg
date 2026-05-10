@@ -1,0 +1,8 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Map pin icon">
+<path d="M48 8c-18.8 0-34 15.2-34 34 0 25.5 34 46 34 46s34-20.5 34-46C82 23.2 66.8 8 48 8z" fill="#34A853"/>
+<path d="M48 8v80s34-20.5 34-46C82 23.2 66.8 8 48 8z" fill="#4285F4"/>
+<path d="M48 8c-18.8 0-34 15.2-34 34 0 9.9 5.1 19.1 11.7 26.6L48 42V8z" fill="#EA4335"/>
+<path d="M48 42 25.7 68.6C35.2 79.3 48 88 48 88s12.8-8.7 22.3-19.4L48 42z" fill="#FBBC05"/>
+<circle cx="48" cy="42" r="13" fill="white"/>
+<circle cx="48" cy="42" r="7" fill="#1A73E8"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Healthcare icon">
+<path d="M22 13v18c0 8.3 6.7 15 15 15s15-6.7 15-15V13" stroke="#0D4C8C" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.5 13h11M46.5 13h11" stroke="#0D4C8C" stroke-width="3.6" stroke-linecap="round"/>
+<path d="M37 46v5.5C37 58.4 42.6 64 49.5 64S62 58.4 62 51.5V47" stroke="#0E6B3B" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="62" cy="42" r="5.5" fill="#F2FBF6" stroke="#0E6B3B" stroke-width="3.2"/>
+<path d="M10 26c0-3.3 2.7-6 6-6h2" stroke="#0E6B3B" stroke-width="3.6" stroke-linecap="round"/>
+<path d="M10 26v6c0 5 4 9 9 9" stroke="#0E6B3B" stroke-width="3.6" stroke-linecap="round"/>
+</svg>

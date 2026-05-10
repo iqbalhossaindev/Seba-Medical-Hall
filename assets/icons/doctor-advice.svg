@@ -1,0 +1,9 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Doctor advice icon">
+<circle cx="29" cy="20" r="10.5" fill="#F3F8FE" stroke="#0D4C8C" stroke-width="3.2"/>
+<path d="M10 63c1.8-12.5 9.9-20.5 19-20.5S46.2 50.5 48 63" fill="#F2FBF6"/>
+<path d="M10 63c1.8-12.5 9.9-20.5 19-20.5S46.2 50.5 48 63" stroke="#0E6B3B" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29 45v13M22.5 51.5h13" stroke="#0E6B3B" stroke-width="3.2" stroke-linecap="round"/>
+<rect x="46" y="13" width="17" height="24" rx="8.5" fill="#fff" stroke="#0D4C8C" stroke-width="3.2"/>
+<path d="M50.5 25h8M54.5 21v8" stroke="#0E6B3B" stroke-width="3" stroke-linecap="round"/>
+<path d="M19 17c4 3 15 3 20 0" stroke="#0D4C8C" stroke-width="3" stroke-linecap="round"/>
+</svg>
