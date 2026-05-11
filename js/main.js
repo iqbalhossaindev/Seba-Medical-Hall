@@ -42,7 +42,7 @@ const translations = {
     "details.card2.title": "প্রাথমিক চিকিৎসা পরামর্শ",
     "details.card2.text": "সাধারণ জ্বর, সর্দি-কাশি, ব্যথা, রক্তচাপ, ডায়াবেটিস সচেতনতা এবং সাধারণ স্বাস্থ্য সমস্যা বিষয়ে প্রাথমিক পরামর্শ দেওয়া হয়।",
     "details.card3.title": "স্থানীয় মানুষের সুবিধা",
-    "details.card3.text": "ফার্মেসিটি নিজ গ্রামে, নিজ বাড়ির সংলগ্ন স্থানে প্রতিষ্ঠিত হওয়ায় এলাকার মানুষ দ্রুত যোগাযোগ করতে পারেন এবং প্রয়োজনীয় তথ্য সহজে জানতে পারেন।",
+    "details.card3.text": "ফার্মেসিটি নিজ গ্রাম ও পার্শ্ববর্তী গ্রামের মানুষের সুবিধার্থে, নিজ বাড়ির সংলগ্ন স্থানে প্রতিষ্ঠিত হওয়ায় এলাকার মানুষ দ্রুত যোগাযোগ করতে পারেন এবং প্রয়োজনীয় তথ্য সহজে জানতে পারেন।",
     "details.card4.title": "বিশ্বাস ও অভিজ্ঞতা",
     "details.card4.text": "দীর্ঘদিনের পরিচিতি, আন্তরিক ব্যবহার এবং স্থানীয় মানুষের আস্থার কারণে সেবা মেডিকেল হল এলাকার মানুষের কাছে একটি পরিচিত ও নির্ভরযোগ্য প্রতিষ্ঠান।",
     "guidance.eyebrow": "ভিজিট করার আগে",
@@ -89,7 +89,7 @@ const translations = {
     "profileNote.eyebrow": "প্রোফাইল নোট",
     "profileNote.title": "একজন স্থানীয়ভাবে সম্মানিত মানুষ",
     "profileNote.text1": "ডাক্তার মোহাম্মদ মোশারফ হোসেন শুধু সেবা মেডিকেল হলের সঙ্গে যুক্ত একজন চিকিৎসা-পরামর্শদাতা নন, তিনি এলাকার মানুষের কাছে দীর্ঘদিনের পরিচিত একজন মানুষ। তাঁর সেবা, অভিজ্ঞতা এবং সামাজিক পরিচিতি সেবা মেডিকেল হলকে স্থানীয় মানুষের কাছে আরও বিশ্বাসযোগ্য করেছে।",
-    "profileNote.text2": "সেবা মেডিকেল হল তাঁর নিজ গ্রাম ঝিনাইয়া, ৩ নং রসুলপুর ইউনিয়নে অবস্থিত। এই অবস্থান স্থানীয় মানুষের জন্য যোগাযোগ সহজ করে এবং ফার্মেসিটিকে এলাকার একটি পরিচিত স্বাস্থ্যসেবা পয়েন্ট হিসেবে প্রতিষ্ঠিত করেছে।",
+    "profileNote.text2": "সেবা মেডিকেল হল তাঁর নিজ গ্রাম ও পার্শ্ববর্তী গ্রাম ঝিনাইয়া, ৩ নং রসুলপুর ইউনিয়নে অবস্থিত। এই অবস্থান স্থানীয় মানুষের জন্য যোগাযোগ সহজ করে এবং ফার্মেসিটিকে এলাকার একটি পরিচিত স্বাস্থ্যসেবা পয়েন্ট হিসেবে প্রতিষ্ঠিত করেছে।",
     "timeline.eyebrow": "জীবন ও সেবা",
     "timeline.title": "সংক্ষিপ্ত পরিচিতি",
     "timeline.year1": "১৯৮৯ - ১৯৯০",
@@ -103,7 +103,9 @@ const translations = {
     "disclaimer.text": "জরুরি বা জটিল স্বাস্থ্য সমস্যার ক্ষেত্রে দ্রুত নিকটস্থ হাসপাতাল, নিবন্ধিত চিকিৎসক বা জরুরি স্বাস্থ্যসেবার সহায়তা নিন।",
     "footer.line": "আপনার সুস্থতাই আমাদের অঙ্গীকার",
     "footer.business": "সেবা মেডিকেল হল",
-    "footer.keywords": "সেবা মেডিকেল হল, গ্রাম ঝিনাইয়া, ৩ নং রসুলপুর ইউনিয়ন, দেবীদ্বার থানা, জেলা কুমিল্লা ৩৫৩০।"
+    "footer.keywords": "সেবা মেডিকেল হল, গ্রাম ঝিনাইয়া, ৩ নং রসুলপুর ইউনিয়ন, দেবীদ্বার থানা, জেলা কুমিল্লা ৩৫৩০।",
+    "home.ctaCall": "কল করুন",
+    "floating.call": "কল করুন"
   },
   "en": {
     "brand.bn": "Seba Medical Hall",
@@ -148,7 +150,7 @@ const translations = {
     "details.card2.title": "Primary Medical Guidance",
     "details.card2.text": "Primary guidance is provided for common fever, cold and cough, pain, blood pressure, diabetes awareness, and general health concerns.",
     "details.card3.title": "Convenience for Local People",
-    "details.card3.text": "The pharmacy is established in his own village, near his own home, making it easier for local people to contact and get necessary information.",
+    "details.card3.text": "The pharmacy is established in his own village and nearby villages and nearby villages, near his own home, making it easier for local people to contact and get necessary information.",
     "details.card4.title": "Trust and Experience",
     "details.card4.text": "Because of long-standing recognition, sincere behavior, and local trust, Seba Medical Hall is known as a familiar and reliable place in the area.",
     "guidance.eyebrow": "Before Visiting",
@@ -195,7 +197,7 @@ const translations = {
     "profileNote.eyebrow": "Profile Note",
     "profileNote.title": "A Locally Respected Person",
     "profileNote.text1": "Dr. Mohammad Mosharraf Hossain is not only a healthcare adviser connected with Seba Medical Hall; he is also a person long known to the local people. His service, experience, and social recognition have made Seba Medical Hall more trustworthy in the area.",
-    "profileNote.text2": "Seba Medical Hall is located in his own village, Jhinaiya, No. 3 Rosulpur Union. This location makes communication easier for local people and establishes the pharmacy as a familiar healthcare point in the area.",
+    "profileNote.text2": "Seba Medical Hall is located in his own village and nearby villages and nearby villages, Jhinaiya, No. 3 Rosulpur Union. This location makes communication easier for local people and establishes the pharmacy as a familiar healthcare point in the area.",
     "timeline.eyebrow": "Life and Service",
     "timeline.title": "Brief Profile",
     "timeline.year1": "1989 - 1990",
@@ -209,7 +211,9 @@ const translations = {
     "disclaimer.text": "For emergency or serious health conditions, please seek help from the nearest hospital, registered physician, or emergency healthcare service.",
     "footer.line": "Your Health Is Our Commitment",
     "footer.business": "Seba Medical Hall",
-    "footer.keywords": "Seba Medical Hall, Village Jhinaiya, No. 3 Rosulpur Union, Devidwar Police Station, Cumilla District 3530."
+    "footer.keywords": "Seba Medical Hall, Village Jhinaiya, No. 3 Rosulpur Union, Devidwar Police Station, Cumilla District 3530.",
+    "home.ctaCall": "Call Now",
+    "floating.call": "Call Now"
   }
 };
 
@@ -302,4 +306,24 @@ document.addEventListener("DOMContentLoaded", () => {
   initRevealAnimations();
   initPageTransitions();
   initMobileMenu();
+});
+
+
+document.addEventListener("DOMContentLoaded", () => {
+  const floatingCall = document.querySelector(".always-visible-call, .global-floating-call, .floating-call-btn");
+  if (!floatingCall) return;
+
+  const keepVisible = () => {
+    floatingCall.style.position = "fixed";
+    floatingCall.style.right = window.innerWidth <= 640 ? "12px" : "20px";
+    floatingCall.style.bottom = window.innerWidth <= 640 ? "12px" : "18px";
+    floatingCall.style.visibility = "visible";
+    floatingCall.style.opacity = "1";
+    floatingCall.style.display = "inline-flex";
+    floatingCall.style.zIndex = "2147483000";
+  };
+
+  keepVisible();
+  window.addEventListener("scroll", keepVisible, { passive: true });
+  window.addEventListener("resize", keepVisible);
 });

@@ -101,3 +101,40 @@ Full translation fix:
 - Fixed the new detailed information sections that were appearing in English on the Bangla page.
 - Homepage default static content is now Bangla only before JavaScript loads.
 - English content appears only after switching to EN or using ?lang=en.
+
+
+Mobile menu and call button update:
+- Hid the top phone number in the mobile header.
+- Moved the Bangla / English language switch into the mobile menu.
+- Replaced the hero map button with a Call Now / কল করুন action button.
+- Added a classic handset call icon to the hero call button.
+
+
+Floating call button update:
+- Added a floating bottom-right call button.
+- Added translated label: কল করুন / Call Now.
+- Added call icon.
+- Added on homepage and about page.
+
+
+Own and nearby villages wording update:
+- Updated Bangla wording from "নিজ গ্রাম" to "নিজ গ্রাম ও পার্শ্ববর্তী গ্রাম" where relevant.
+- Updated English wording from "own village" to "own village and nearby villages" where relevant.
+
+
+Fixed call area update:
+- Floating Call Now / কল করুন button is now strongly fixed at the bottom-right corner.
+- Added mobile safe-area support.
+- Added mobile bottom padding so the fixed button does not cover page content.
+
+
+Global floating call button update:
+- The floating Call Now / কল করুন button now appears across the entire website.
+- Added the floating button to every HTML page.
+- Fixed at the bottom-right corner on all pages and screen sizes.
+
+
+Always-visible floating call update:
+- The floating Call Now / কল করুন button now stays visible in the bottom-right corner while scrolling.
+- Added stronger fixed positioning and very high z-index.
+- Added a scroll helper in JavaScript to keep the button visible.

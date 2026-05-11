@@ -98,7 +98,7 @@
 }
 </script>
 </head>
-<body class="page-fade">
+<body class="page-fade" class="has-floating-call">
   <header class="site-header">
     <a class="brand" href="index.html" aria-label="Seba Medical Hall home">
       <img src="assets/seba-logo.svg" alt="Seba Medical Hall logo" />
@@ -115,10 +115,16 @@
       <a href="index.html#services" data-i18n="nav.services">সেবা</a>
       <a class="active" href="about.html" data-i18n="nav.about">ডাক্তার সম্পর্কে</a>
       <a href="index.html#contact" data-i18n="nav.contact">যোগাযোগ</a>
+      <div class="nav-language mobile-only">
+        <div class="language-switch" aria-label="Language switch">
+          <button class="lang-btn active" data-lang="bn">বাংলা</button>
+          <button class="lang-btn" data-lang="en">EN</button>
+        </div>
+      </div>
     </nav>
 
     <div class="header-actions">
-      <div class="language-switch" aria-label="Language switch">
+      <div class="language-switch desktop-language" aria-label="Language switch">
         <button class="lang-btn active" data-lang="bn">বাংলা</button>
         <button class="lang-btn" data-lang="en">EN</button>
       </div>
@@ -207,7 +213,7 @@
         <p class="eyebrow" data-i18n="profileNote.eyebrow">প্রোফাইল নোট</p>
         <h2 data-i18n="profileNote.title">একজন স্থানীয়ভাবে সম্মানিত মানুষ</h2>
         <p data-i18n="profileNote.text1">ডাক্তার মোহাম্মদ মোশারফ হোসেন শুধু সেবা মেডিকেল হলের সঙ্গে যুক্ত একজন চিকিৎসা-পরামর্শদাতা নন, তিনি এলাকার মানুষের কাছে দীর্ঘদিনের পরিচিত একজন মানুষ। তাঁর সেবা, অভিজ্ঞতা এবং সামাজিক পরিচিতি সেবা মেডিকেল হলকে স্থানীয় মানুষের কাছে আরও বিশ্বাসযোগ্য করেছে।</p>
-        <p data-i18n="profileNote.text2">সেবা মেডিকেল হল তাঁর নিজ গ্রাম ঝিনাইয়া, ৩ নং রসুলপুর ইউনিয়নে অবস্থিত। এই অবস্থান স্থানীয় মানুষের জন্য যোগাযোগ সহজ করে এবং ফার্মেসিটিকে এলাকার একটি পরিচিত স্বাস্থ্যসেবা পয়েন্ট হিসেবে প্রতিষ্ঠিত করেছে।</p>
+        <p data-i18n="profileNote.text2">সেবা মেডিকেল হল তাঁর নিজ গ্রাম ও পার্শ্ববর্তী গ্রাম ঝিনাইয়া, ৩ নং রসুলপুর ইউনিয়নে অবস্থিত। এই অবস্থান স্থানীয় মানুষের জন্য যোগাযোগ সহজ করে এবং ফার্মেসিটিকে এলাকার একটি পরিচিত স্বাস্থ্যসেবা পয়েন্ট হিসেবে প্রতিষ্ঠিত করেছে।</p>
       </div>
     </section>
 
@@ -271,5 +277,11 @@
 
   <script src="js/seo.js"></script>
   <script src="js/main.js"></script>
+
+  <a class="floating-call-btn global-floating-call always-visible-call" href="tel:+8801726909122" aria-label="Call now">
+    <img src="assets/icons/call-action.svg" alt="" aria-hidden="true" />
+    <span data-i18n="floating.call">কল করুন</span>
+  </a>
+
 </body>
 </html>

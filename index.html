@@ -85,7 +85,7 @@
 }
 </script>
 </head>
-<body class="page-fade">
+<body class="page-fade" class="has-floating-call">
   <header class="site-header">
     <a class="brand" href="index.html" aria-label="Seba Medical Hall home">
       <img src="assets/seba-logo.svg" alt="Seba Medical Hall logo" />
@@ -102,10 +102,16 @@
       <a href="#services" data-i18n="nav.services">সেবা</a>
       <a href="about.html" data-i18n="nav.about">ডাক্তার সম্পর্কে</a>
       <a href="#contact" data-i18n="nav.contact">যোগাযোগ</a>
+      <div class="nav-language mobile-only">
+        <div class="language-switch" aria-label="Language switch">
+          <button class="lang-btn active" data-lang="bn">বাংলা</button>
+          <button class="lang-btn" data-lang="en">EN</button>
+        </div>
+      </div>
     </nav>
 
     <div class="header-actions">
-      <div class="language-switch" aria-label="Language switch">
+      <div class="language-switch desktop-language" aria-label="Language switch">
         <button class="lang-btn active" data-lang="bn">বাংলা</button>
         <button class="lang-btn" data-lang="en">EN</button>
       </div>
@@ -123,9 +129,9 @@
 
         <div class="hero-actions">
           <a class="primary-btn" href="#services" data-i18n="home.ctaServices">সেবা দেখুন</a>
-          <a class="map-btn" href="https://maps.app.goo.gl/da37eKfEbNyJsp4y8" target="_blank" rel="noopener">
-            <img src="assets/map-pin.svg" alt="" />
-            <span data-i18n="home.mapBtn">ম্যাপ লোকেশন</span>
+          <a class="action-call-btn" href="tel:+8801726909122">
+            <img src="assets/icons/call-action.svg" alt="" aria-hidden="true" />
+            <span data-i18n="home.ctaCall">কল করুন</span>
           </a>
         </div>
 
@@ -201,7 +207,7 @@
 
         <article class="detail-card reveal">
           <h3 data-i18n="details.card3.title">স্থানীয় মানুষের সুবিধা</h3>
-          <p data-i18n="details.card3.text">ফার্মেসিটি নিজ গ্রামে, নিজ বাড়ির সংলগ্ন স্থানে প্রতিষ্ঠিত হওয়ায় এলাকার মানুষ দ্রুত যোগাযোগ করতে পারেন এবং প্রয়োজনীয় তথ্য সহজে জানতে পারেন।</p>
+          <p data-i18n="details.card3.text">ফার্মেসিটি নিজ গ্রাম ও পার্শ্ববর্তী গ্রামের মানুষের সুবিধার্থে, নিজ বাড়ির সংলগ্ন স্থানে প্রতিষ্ঠিত হওয়ায় এলাকার মানুষ দ্রুত যোগাযোগ করতে পারেন এবং প্রয়োজনীয় তথ্য সহজে জানতে পারেন।</p>
         </article>
 
         <article class="detail-card reveal">
@@ -296,5 +302,11 @@
 
   <script src="js/seo.js"></script>
   <script src="js/main.js"></script>
+
+  <a class="floating-call-btn global-floating-call always-visible-call" href="tel:+8801726909122" aria-label="Call now">
+    <img src="assets/icons/call-action.svg" alt="" aria-hidden="true" />
+    <span data-i18n="floating.call">কল করুন</span>
+  </a>
+
 </body>
 </html>

@@ -1,2 +1,4 @@
-LATEST VERSION: Full translation fix. Bangla page shows Bangla only, English page shows English only.
-The previous English text in Detailed Information and Before Visiting sections is fixed.
+LATEST VERSION: Always-visible floating call button.
+- Call Now / কল করুন button stays visible at the bottom-right while scrolling.
+- Added strong fixed positioning, very high z-index, and scroll helper.
+- Works across the entire website.
